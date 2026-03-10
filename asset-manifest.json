@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sloboda-manga/static/css/main.da12cd81.css",
+    "main.js": "/sloboda-manga/static/js/main.53b1de9c.js",
+    "static/js/453.563d4132.chunk.js": "/sloboda-manga/static/js/453.563d4132.chunk.js",
+    "index.html": "/sloboda-manga/index.html",
+    "main.da12cd81.css.map": "/sloboda-manga/static/css/main.da12cd81.css.map",
+    "main.53b1de9c.js.map": "/sloboda-manga/static/js/main.53b1de9c.js.map",
+    "453.563d4132.chunk.js.map": "/sloboda-manga/static/js/453.563d4132.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da12cd81.css",
+    "static/js/main.53b1de9c.js"
+  ]
+}
