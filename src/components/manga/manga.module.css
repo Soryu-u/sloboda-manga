@@ -1,0 +1,13 @@
+.main {
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+}
+
+.panel {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
